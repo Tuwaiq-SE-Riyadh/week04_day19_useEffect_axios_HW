@@ -1,6 +1,6 @@
 ## useState, useEffect, and axios HW
 
-Create a web page that contain 2 buttons, when clicking on a button, get data from the corresponding kitsu API endpoint(https://kitsu.io/api/edge//trending/\<resourceType>) and display the name and image.
+Create a web page that contain 2 buttons, when clicking on a button, get data from the corresponding kitsu API endpoint(https://kitsu.io/api/edge//trending/\<resourceType\>) and display the name and image.
 
 ### Guide: 
 * Create 2 state: 
